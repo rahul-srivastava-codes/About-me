@@ -1,6 +1,13 @@
 # About-me
-<h3> <samp> Hello folks, welcome to my github profile. I love creating websites using tools and technology. One day I will master ML domain</samp> </h2>
-
-<p align="center">
-I have deep understanding of frontend stuff like HTML, CSS, JS, React, Tailwind CSS and doing good in Express , MONGODB, SQL. Learning currently JAVA for backend too
+<h1 align="center">Hi 🙌, I'm Rahul Srivastava</h1>
+<h3 align="center">I have keen interest in full stack development.
+I have 1 year hands on self learning experience in Html, CSS, Js, Mongodb, React, Express, TypeScript,Node.js
+.I love Problem Solving and creating projects which are human friendly.</h3>
+<p>
+  
+  - Currently learning DSA mainly array and solving problem  on leetcode .
+  - Currently learning SQL.
+  - Working on Music player app so i do not have to pay or get irritated by ads.
+    
 </p>
+
