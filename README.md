@@ -31,11 +31,9 @@ I have 1 year hands on self learning experience in Html, CSS, Js, Mongodb, React
 
 ## 🛠️ Tech Stack
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![Java](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
@@ -44,7 +42,7 @@ I have 1 year hands on self learning experience in Html, CSS, Js, Mongodb, React
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul-srivastava-codes&show_icons=true&theme=radical" alt="Satyendra's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul-srivastava-codes&show_icons=true&theme=radical" alt="Rahul GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-srivastava-codes&theme=radical" alt="Satyendra's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-srivastava-codes&layout=compact&theme=radical" alt="Top Languages" />
 </p>
